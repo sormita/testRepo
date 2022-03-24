@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PracticeAlgorithm/1.0.0": {
+        "runtime": {
+          "PracticeAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+5y3un/3Cuy4O7IGR5mIw6FgTYjhEnK9Bru9X7ytS2L7UFdHAfZwumJRLr4gseBmakGBkTwvBXpnr7Op0/bCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\PracticeAlgorithm\\PracticeAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.exe
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.deps.json
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.runtimeconfig.json
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.runtimeconfig.dev.json
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.dll
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\bin\Debug\netcoreapp3.1\PracticeAlgorithm.pdb
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.csprojAssemblyReference.cache
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.AssemblyInfoInputs.cache
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.AssemblyInfo.cs
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.dll
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.pdb
+C:\Users\SormitaChakraborty\source\repos\PracticeAlgorithm\obj\Debug\netcoreapp3.1\PracticeAlgorithm.genruntimeconfig.cache
